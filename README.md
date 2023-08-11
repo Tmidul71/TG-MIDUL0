@@ -54,16 +54,15 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [TG Midul (Link Dimu na😒)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [ (Nai😒)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪FACEBOOK PAGE :- [TG Midul]
-(Nai🙃)
+- ➪FACEBOOK PAGE :- (Nai🙃)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 PAGE :- TG Midul [](https://www.facebook.com/profile.php?id=100063770347699)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 PAGE :- Naii [](Nai)
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
