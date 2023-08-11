@@ -1,4 +1,3 @@
-# TG-MIDUL0
 <h1 align="center"> Hacked World :) </h1>
 <p align="center">
 •●•
@@ -20,7 +19,7 @@
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+𝘈𝘔+RJ+SHUVO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+𝘈𝘔+TG+MIDUL)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/TG-Midul"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=iamdarkness404&theme=monokai"></a>
@@ -116,8 +115,7 @@
 
 [![TG-Midul's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=TG-Midul&theme=react-dark&area=true&hide_border=true)](https://github.com/TG-Midul/github-readme-activity-graph)
 
-<a 
-href=https://github.com/TG-Midul"4/lit"><img title="lite" src="https://github-readme-stats.vercel.app/api/pin/?username=TG-Midul&repo=lite&theme=gotham"></a>
+<a href=https://github.com/TG-Midul"4/lit"><img title="lite" src="https://github-readme-stats.vercel.app/api/pin/?username=TG-Midul&repo=lite&theme=gotham"></a>
 <a href="https://github.com/TG-Midul"><img title="free" src="https://github-readme-stats.vercel.app/api/pin/?username=TG-Midul&repo=free&theme=gotham"></a>
 <a href="https://github.com/TG-Midul"><img title="gf-hack" src="https://github-readme-stats.vercel.app/api/pin/?username=TG-Midul4&repo=gf-hack&theme=gotham"></a>
 <a href="https://github.com/TG-Midul/2k9"><img title="2k9" src="https://github-readme-stats.vercel.app/api/pin/?username=RJ-Shuvi&repo=2k9&theme=gotham"></a>
